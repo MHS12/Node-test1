@@ -1,0 +1,16 @@
+{
+  "name": "7-d_data_aws_app1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev":"nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
